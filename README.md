@@ -1,4 +1,4 @@
-# Prathibha-HP-# Hi, I'm Prathibha 👋
+Hi, I'm Prathibha 👋
 
 ### 💻 Computer Science Engineering Student | Python Developer | AI & Data Enthusiast
 
